@@ -1,0 +1,14 @@
+C:\Users\pc\source\repos\Esercizio settimana backend 1\Esercizio settimana backend 1\bin\Debug\net8.0\Esercizio settimana backend 1.exe
+C:\Users\pc\source\repos\Esercizio settimana backend 1\Esercizio settimana backend 1\bin\Debug\net8.0\Esercizio settimana backend 1.deps.json
+C:\Users\pc\source\repos\Esercizio settimana backend 1\Esercizio settimana backend 1\bin\Debug\net8.0\Esercizio settimana backend 1.runtimeconfig.json
+C:\Users\pc\source\repos\Esercizio settimana backend 1\Esercizio settimana backend 1\bin\Debug\net8.0\Esercizio settimana backend 1.dll
+C:\Users\pc\source\repos\Esercizio settimana backend 1\Esercizio settimana backend 1\bin\Debug\net8.0\Esercizio settimana backend 1.pdb
+C:\Users\pc\source\repos\Esercizio settimana backend 1\Esercizio settimana backend 1\obj\Debug\net8.0\Esercizio settimana backend 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\Esercizio settimana backend 1\Esercizio settimana backend 1\obj\Debug\net8.0\Esercizio settimana backend 1.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\Esercizio settimana backend 1\Esercizio settimana backend 1\obj\Debug\net8.0\Esercizio settimana backend 1.AssemblyInfo.cs
+C:\Users\pc\source\repos\Esercizio settimana backend 1\Esercizio settimana backend 1\obj\Debug\net8.0\Esercizio settimana backend 1.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Esercizio settimana backend 1\Esercizio settimana backend 1\obj\Debug\net8.0\Esercizio settimana backend 1.dll
+C:\Users\pc\source\repos\Esercizio settimana backend 1\Esercizio settimana backend 1\obj\Debug\net8.0\refint\Esercizio settimana backend 1.dll
+C:\Users\pc\source\repos\Esercizio settimana backend 1\Esercizio settimana backend 1\obj\Debug\net8.0\Esercizio settimana backend 1.pdb
+C:\Users\pc\source\repos\Esercizio settimana backend 1\Esercizio settimana backend 1\obj\Debug\net8.0\Esercizio settimana backend 1.genruntimeconfig.cache
+C:\Users\pc\source\repos\Esercizio settimana backend 1\Esercizio settimana backend 1\obj\Debug\net8.0\ref\Esercizio settimana backend 1.dll
